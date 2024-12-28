@@ -1,0 +1,9 @@
+# Ignorar dependencias locales
+vendor/
+# Archivos temporales
+*.log
+*.tmp
+# Ignorar datos del sistema
+node_modules/
+.idea/
+.DS_Store
